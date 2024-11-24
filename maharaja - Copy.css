@@ -1,0 +1,349 @@
+.nav_anchor_maharaj{
+	color:blue;
+}
+..nav_anchor_maharaj:hover{
+	color:blue;
+}
+
+.navm_maharaj{
+	background-color:#C02080;
+	position:sticky;
+	top:0px;
+	z-index:3;
+}
+.subnav_majaraj{
+	color:blue;
+	margin:20px 0px 0px 5px;
+	border:1px hidden red;
+	
+}
+.navbar-toggle{
+	border:none;
+	margin-top:20px;
+	
+}
+#mycarousel{
+	margin-top:-20px;
+	
+}
+.link_bg{
+	background-color: #2DBBA4;
+}
+#download_content{
+	margin:90px 0px;
+	font-family: "Prompt", sans-serif;
+	color:#FFFFFF;
+	font-size:32px;
+}
+.btn_css_maharaja{
+	text-decoration:none;
+	color:white;
+}
+.btn_style{
+	background-color:#A5069A;
+}
+.button_spacing_maharaja{
+	letter-spacing:5px;
+	
+}
+.btn_css_maharaja:hover{
+	text-decoration:none;
+	
+}
+.button_spacing_maharaja:hover{
+	color:white;
+	letter-spacing:10px;
+}
+.btn_center{
+	text-align:center;
+	margin-top:100px;
+	margin-bottom:20px;
+}
+.heading_welcome{
+	margin-top:70px;
+	font-family: "Prompt", sans-serif;
+	text-align:center;
+}
+.line_maharaja{
+	width:450px;
+	border:1px dotted green;
+	
+}
+.servicemain_maharaja{
+	margin-top:40px;
+}
+.cream_delight_maharaja{
+	font-size:35px;
+	font-family: "Prompt", sans-serif;
+	color:#C02080;
+}
+.cream_delightpara_maharaja{
+	margin-top:30px;
+	line-height:30px;
+	
+}
+#cream_delightbtn_maharaja{
+	margin-top:20px;
+}
+.btn2_center{
+	text-align:center;
+}
+.card-container{
+	font-family: "Prompt", sans-serif;
+	display:flex;
+
+	flex-wrap:wrap;
+	margin-top:100px;
+ 
+}
+.card{
+	
+	padding:30px;
+	background-color:#FDF5E7;
+	color:#606060;
+	border-radius:5px;
+}
+.card:hover{
+	border:3px solid #A5069A;
+	box-shadow:2px 3px 3px 2px black;
+	
+}
+.about_us{
+	background-color:#FDF5E7;
+	margin-top:70px;
+	padding:40px;
+}
+#lineid_maharaja{
+	width:150px;
+}
+.company_details{
+	color:#C02080;
+	font-family: "Prompt", sans-serif;
+}
+.companypara_details{
+	line-height:30px;
+}
+.toggle{
+	text-decoration:none;
+}
+.toggle1:hover{
+	text-decoration:none;
+}
+.collapsepara{
+	line-height:30px;
+}
+.title_collapse{
+	color: #2DBBA4;
+}
+.tailor_machine_img{
+	text-align:center;
+}
+.tailore_machine_card_content{
+	font-family: "Prompt", sans-serif;
+}
+.card2{
+	margin-top:70px;
+}
+.machine_heading{
+	text-align:center;
+	margin-top:40px;
+}
+.ginger_bread_content{
+	font-family: "Prompt", sans-serif;
+}
+.ginger_bread_img{
+	text-align:center;
+}
+.ginger_heading{
+	text-align:center;
+	margin-top:40px;
+}
+
+.cake_img{
+	text-align:center;
+}
+.cake_content{
+	font-family: "Prompt", sans-serif;
+}
+.cake_heading{
+	text-align:center;
+	margin-top:40px;
+}
+.quality_policy{
+	background-color:#FDF5E7;
+}
+
+.policy_content{
+	margin-top:50px;
+	font-family: "Prompt", sans-serif;
+	padding:20px;
+	color:white;
+	background-color:#2DBBA4;
+	border:1px solid green;
+	border-radius:10px;
+	line-height:25px;
+}
+.policy_img{
+	margin-top:50px;
+}
+.our_menu_border_maharaja{
+	border:1px solid black;
+}
+.our_menu_maharaja{
+	font-family: "Prompt", sans-serif;
+	padding-top:50px;
+	background-color:#FDF5E7;
+}
+#our_menu_hr{
+	width:120px;
+}
+.abu_gatta{
+	margin-top:30px;
+	line-height:25px;
+	font-family: "Prompt", sans-serif;
+	border:10px solid white;
+	border-radius:10px;
+	padding:20px;
+}
+.abu_gatta_heading{
+	color:#C02080;
+}
+#adu_order_btn{
+	background-color:#C02080;
+	color:white;
+}
+#adu_order_btn2{
+	background-color:#C02080;
+	color:white;
+	margin-top:20px;
+}
+.our_gallery{
+	margin-top:-20px;
+	
+	background-color:#FDF5E7;
+}
+.our_gallery_heading{
+	padding-top:100px;
+}
+#our_gallery_id{
+	width:200px;
+}
+.gallary_img:hover{
+	border:10px solid #C02080;
+	border-radius:5px;
+}
+.gallery_marin{
+	margin-top:90px;
+}
+#contact_us_hr{
+	width:150px;
+}
+.row2{
+	margin-top:10px;
+}
+.navbar-inverse .navbar-nav>li>a>b
+{
+	color:white;
+}
+.navbar-inverse .navbar-nav>li>a>b:hover
+{
+	color:white;
+}
+.panel-title>.small, .panel-title>.small>a, .panel-title>a, .panel-title>small, .panel-title>small>a
+{
+	text-decoration:none;
+}
+.contact_us{
+	font-family: "Prompt", sans-serif;
+	margin-top:40px;
+}
+#line_contact{
+	width:200px;
+}
+.contact_info>ul>li{
+	list-style-type:none;
+	color:grey;
+}
+
+.main_office{
+	font-family: "Prompt", sans-serif;
+	margin-top:40px;
+}
+.social-media {
+		width:100%;
+		text-align: center;
+}
+.social-media i {
+    font-size: 22px;
+    color:#c02080;
+    width: 55px;
+    margin: 5px;
+    height: 55px;
+    line-height: 50px;
+    display: inline-block;
+	text-align: center;
+	border-radius:50%;
+}
+.il_list{
+	display:inline-block;
+}
+.send_form{
+	
+	text-align:center;
+	
+}
+.send_form>.btn{
+	background-color:#C02080;
+	color:white;
+}
+.send_form>.btn:hover{
+	background-color:green;
+}
+.maps{
+	margin-top:60px;
+}
+.social_media{
+	margin-top:40px;
+}
+.about_us{
+	padding-top:100px;
+}
+.our_menu_maharaja{
+	padding-top:100px;
+} 
+.our_gallery{
+	padding-top:100px;
+}
+.contact_us{
+	padding-top:100px;
+}
+.social-media2 {
+		width: 100%;
+		text-align: center;
+		
+}
+	
+.social-media2 i {
+    font-size: 22px;
+    border: 3px solid #c02080;
+    color:white;
+	background-color:#c02080;
+    width: 55px;
+    margin: 5px;
+    height: 55px;
+    line-height: 50px;
+    display: inline-block;
+    text-align: center;
+    border-radius:50px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	background-color:black;
+	color:white;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	background-color:#C02080;
+}
+.navbar-inverse .navbar-nav>.active>a{
+	background-color:#C02080;
+}
